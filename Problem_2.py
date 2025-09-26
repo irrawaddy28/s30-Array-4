@@ -37,7 +37,7 @@ The intuition of the algorithm is not to consider the subarray as a part of the 
 
 Here, we will iterate the given array with a single loop and while iterating we will add the elements in a current sum variable. Now, if at any point the current sum becomes < 0, we will set the current sum to 0 as we are not going to consider any subarray with a negative sum. Among all the sums calculated, we will consider the maximum one.
 https://youtu.be/9IZYqostl2M?t=766
-https://www.youtube.com/watch?v=AHZpyENo7k4
+https://youtu.be/AHZpyENo7k4?t=472
 https://youtu.be/uBTOIdBxb1o?t=2133
 Time: O(N), Space: O(1)
 '''
